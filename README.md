@@ -35,7 +35,7 @@ $rosbag play MH_03_medium.bag  -s 20
 
 Then, the user should see the following running interface:
 
-![image](https://github.com/zhuqingzhang/C-MIMB-VIO/docs/demo.png)
+![image](https://github.com/zhuqingzhang/C-MIMB-VIO/blob/main/docs/demo.png)
 
 
 
