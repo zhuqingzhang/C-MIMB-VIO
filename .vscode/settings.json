@@ -1,0 +1,6 @@
+{
+  "python.autoComplete.extraPaths": [
+    "/home/zzq/SoftWare/Livox_SDK/livox_ros_driver/devel/lib/python2.7/dist-packages",
+    "/opt/ros/melodic/lib/python2.7/dist-packages"
+  ]
+}
